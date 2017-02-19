@@ -108,4 +108,3 @@ As this is a MVP (minimum viable product), there are some **improvements** that 
 3. **More flexibility on cash flow input** to support multiple period cash flow
 4. Provide **selling price prediction** of underlying property
 
----
