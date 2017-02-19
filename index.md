@@ -99,29 +99,6 @@ print(paste0('The annual IRR calculated from cf_net is ',formatC(irr(cf_net)*12*
 
 ---
 
-## Identify the Gaps
-
-After going through the mortagage calculator available in most of the property listing websites, many of them do not factor in the **impact of the following aspect** and provide a **baseline return rate** as a reference.
-
-1. Property selling price
-2. Passive income (rental) that might be generated from the property
-3. Transaction cost (legal fee, taxes and etc)
-4. Holding period
-
----
-
-## Output result
-
-The output result that will be returned to the users are as followed:
-
-1. IRR
-2. Net cash flow upon divestment 
-3. Selling price
-4. Total interest paid
-5. Mortgage spreadsheet
-
----
-
 ## Future Improvement
 
 As this is a MVP (minimum viable product), there are some **improvements** that can be made in the future to improve the users experience. Such improvements are as followed:
