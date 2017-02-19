@@ -1,0 +1,8 @@
+base
+shiny
+FinCal
+shinydashboard
+magrittr
+ggplot2
+devtools
+slidify
